@@ -1,6 +1,6 @@
 # Kuliah Pemrograman Komputer Geofisika (MFG4974)
 Materi Kuliah Pemrograman Komputer Geofisika 2 SKS
-[![alt text][1.1]][1]
+[][![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
