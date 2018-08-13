@@ -10,7 +10,7 @@ Materi Kuliah Pemrograman Komputer Geofisika 2 SKS
 
 ## Pengampu
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
-Follow me on [![alt text][1.1]][1]
+Follow me on [![alt text][1.1]][1] [![alt text][2.1]][2]
 
 
 
