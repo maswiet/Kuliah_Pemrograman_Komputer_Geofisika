@@ -12,7 +12,14 @@ Materi Kuliah Pemrograman Komputer Geofisika 2 SKS
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
 Follow me on [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][6.1]][6]
 
+## Deskripsi Kuliah
+Komputasi geofisika lanjut dalam lingkungan sistem operasi berbasis Unix dengan kasus aplikasi di fisika atau geofisika. Materinya antara lain dasar-dasar perintah Unix, penulisan skript Shell di Unix, menggambar berbasis skrip di Unix, menggambar peta, mengkompilasi bahasa pemrograman yang umum di geofisika, pengantar komputasi performa tinggi, dan visualisasi data.
 
+## Tujuan Pembelajaran
+Fokus utama kuliah ini adalah belajar agar mendapatkan skill komputasi di lingkungan Unix. Dalam perkuliahan akan dijelaska bagaimana memanfaatkan komputer untuk memcahkan permasalahana di fisika/geofisika. Setelah mengkuti perkuliahan ini, diharapkan mahasiswa dapat:
+- Menulis program dalam lingkunga Unix, terutama memecahkan masalah numerik.
+- Mampu membuat grafik yag indah untuk keperluan publikasi ilmiah di Jurnal Bermutu.
+- Mampu memahami bagaima struktur program, melakukan kompilasi program dan mencari syntax error di dalam program, serta kenal dengan pemrograman di lingkungan komputasi dengan banyak prosessor. (supercomputing). 
 
  [1]: http://www.twitter.com/maswiet
  [2]: http://www.facebook.com/mas.wiet.52
