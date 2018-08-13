@@ -1,0 +1,2 @@
+# Kuliah_Pemrograman_Komputer_Geofisika
+Materi Kuliah Pemrograman Komputer Geofisika
