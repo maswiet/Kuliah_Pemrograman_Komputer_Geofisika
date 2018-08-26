@@ -34,7 +34,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 5     | Menggambar Peta dengan GMT 1 | [T.B.A](#) |
 | 6     | Menggambar Peta dengan GMT 2 | [T.B.A](#) |
 | 7     | Menggambar Peta dengan Matlab dan Python | [T.B.A](#) |
-| 8     | Ujian Tengah Semester | [T.B.A](#) |
+| 8     | Ujian Tengah Semester (08 Oktober 2018) | [T.B.A](#) |
 | 9     | Pengantar Fortran90 | [T.B.A](#) |
 | 10     | Struktur kontrol di Fortran 90 | [T.B.A](#) |
 | 11    | Array di Fortran90 | [T.B.A](#) |
