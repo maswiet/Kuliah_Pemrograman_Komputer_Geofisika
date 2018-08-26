@@ -14,7 +14,9 @@ Follow me on [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][6.1]][6]
 
 ## Deskripsi Kuliah
 Komputasi geofisika lanjut dalam lingkungan sistem operasi berbasis Unix dengan kasus aplikasi di fisika atau geofisika. Materinya antara lain dasar-dasar perintah Unix, penulisan skript Shell di Unix, menggambar berbasis skrip di Unix, menggambar peta, mengkompilasi bahasa pemrograman yang umum di geofisika, pengantar komputasi performa tinggi, dan visualisasi data.
-
+## Jadwal Kuliah
+Senin, jam 15:30 s.d. 17:10 di S1.301
+**Jadwal UTS** 08 Oktober 2018, jam 13:00 s.d. 15:00
 ## Tujuan Pembelajaran
 Fokus utama kuliah ini adalah belajar agar mendapatkan skill komputasi di lingkungan Unix. Dalam perkuliahan akan dijelaska bagaimana memanfaatkan komputer untuk memcahkan permasalahana di fisika/geofisika. Setelah mengkuti perkuliahan ini, diharapkan mahasiswa dapat:
 - Menulis program dalam lingkunga Unix, terutama memecahkan masalah numerik.
