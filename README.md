@@ -27,7 +27,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Tentang Lingkungan SO Unix | [Bahan Kuliah](http://nbviewer.ipython.org/github/maswiet/Kuliah_Gelombang/Minggu_1_Osilasi.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
+| 1     | Tentang Lingkungan SO Unix | [Bahan Kuliah](https://github.com/maswiet/Kuliah_Pemrograman_Komputer_Geofisika/blob/master/Kuliah_Minggu_01.ipynb) / [![launch binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/#) |
 | 2     | Perintah-perintah di Unix, awk, join, paste etc. | [T.B.A](#) |
 | 3     | Dasar-dasar Sript Shell | [T.B.A](#) |
 | 4     | Struktur kontrol dalam Script Shell | [T.B.A](#) |
