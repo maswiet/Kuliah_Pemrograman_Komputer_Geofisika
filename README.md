@@ -19,7 +19,7 @@ Komputasi geofisika lanjut dalam lingkungan sistem operasi berbasis Unix dengan 
 - **Jadwal UTS** 08 Oktober 2018, jam 13:00 s.d. 15:00
 ## Tujuan Pembelajaran
 Fokus utama kuliah ini adalah belajar agar mendapatkan skill komputasi di lingkungan Unix. Dalam perkuliahan akan dijelaska bagaimana memanfaatkan komputer untuk memcahkan permasalahana di fisika/geofisika. Setelah mengkuti perkuliahan ini, diharapkan mahasiswa dapat:
-- Menulis program dalam lingkunga Unix, terutama memecahkan masalah numerik.
+- Menulis program dalam lingkungan Unix, terutama memecahkan masalah numerik.
 - Mampu membuat grafik yag indah untuk keperluan publikasi ilmiah di Jurnal Bermutu.
 - Mampu memahami bagaima struktur program, melakukan kompilasi program dan mencari syntax error di dalam program, serta kenal dengan pemrograman di lingkungan komputasi dengan banyak prosessor. (supercomputing). 
 
